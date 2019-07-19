@@ -7,4 +7,6 @@ When in note playing mode, the user should enter three variables, using the hash
 
 When in tune playing mode, the song will just play out and stop when it's finished, allowing the user to switch back to note playing mode.
 
+The schematic shown below is of the hardware I was required to add to one or more ports in order for the buzzer to be programmable.
+
 ![Hardware Schematic](https://user-images.githubusercontent.com/41366614/61531556-0ff60400-aa1f-11e9-8fc9-da43423d2f85.jpg)
